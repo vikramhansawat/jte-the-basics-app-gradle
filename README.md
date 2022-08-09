@@ -1,2 +1,2 @@
 # jte-the-basics-app-gradle
-jte app example
+jte basic gradle app example
